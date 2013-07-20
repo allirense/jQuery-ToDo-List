@@ -1,0 +1,29 @@
+h2 {
+    font-family: Palatino, Georgia, serif;
+    font-weight: normal;
+}
+
+form {
+    display: inline-block;
+}
+
+.button{
+    display: inline-block;
+    height: 19px;
+    width: 20px;
+	background-color: #cc0000;
+	font-family: helvetica, arial, sans-serif;
+	font-weight: bold;
+	color: #ffffff;
+    border: 2px solid #990000;
+	border-radius: 5px;
+	text-align: center;
+	margin: 3px;
+    cursor: pointer;
+}
+
+.list {
+	font-family:tahoma, sans-serif;
+	color:#999;
+    cursor: pointer;
+}
